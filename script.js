@@ -162,8 +162,10 @@ function startHeroSlideShow() {
 if(page == "index.html"){
     startHeroSlideShow();       
 }
-
+//edit
+startHeroSlideShow();
 
 
 // Export properties data for use in other pages
+
 window.propertiesData = projects;
